@@ -1,4 +1,4 @@
-# Write a Python Program to count unique values inside a list
+# Write a Python program to copy the contents of a file to another file
 
 def copy_file(source_file, destination_file):
     try:
